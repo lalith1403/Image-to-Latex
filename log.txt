@@ -1,0 +1,459 @@
+2021-04-04 14:39:52,181 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_images.py
+2021-04-04 14:39:52,182 root  INFO     Creating pool with 4 threads
+2021-04-04 14:39:52,195 root  INFO     Jobs running...
+2021-04-04 14:39:52,196 root  INFO     Jobs finished
+2021-04-04 14:41:42,575 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_images.py
+2021-04-04 14:41:42,576 root  INFO     Creating pool with 8 threads
+2021-04-04 14:41:42,585 root  INFO     Jobs running...
+2021-04-04 14:41:42,586 root  INFO     Jobs finished
+2021-04-04 15:04:30,262 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_images.py
+2021-04-04 15:04:30,712 root  INFO     Creating pool with 8 threads
+2021-04-04 15:04:30,726 root  INFO     Jobs running...
+2021-04-04 15:04:39,445 root  INFO     src/data/formula_images\2a5c55b8c9.png is blank, crop a white image of default size!
+2021-04-04 15:04:39,903 root  INFO     src/data/formula_images\1b6c98d6df.png is blank, crop a white image of default size!
+2021-04-04 15:04:41,032 root  INFO     src/data/formula_images\1f17aad97f.png is blank, crop a white image of default size!
+2021-04-04 15:04:47,035 root  INFO     src/data/formula_images\13e930f11f.png is blank, crop a white image of default size!
+2021-04-04 15:04:48,031 root  INFO     src/data/formula_images\2a7593131c.png is blank, crop a white image of default size!
+2021-04-04 15:04:58,892 root  INFO     src/data/formula_images\104b693583.png is blank, crop a white image of default size!
+2021-04-04 15:05:03,400 root  INFO     src/data/formula_images\141ab08ba9.png is blank, crop a white image of default size!
+2021-04-04 15:05:04,901 root  INFO     src/data/formula_images\26ee7b556d.png is blank, crop a white image of default size!
+2021-04-04 15:05:10,116 root  INFO     src/data/formula_images\1f6cbf77e4.png is blank, crop a white image of default size!
+2021-04-04 15:05:15,989 root  INFO     src/data/formula_images\2ac4eb70ca.png is blank, crop a white image of default size!
+2021-04-04 15:05:16,187 root  INFO     src/data/formula_images\1bd5ecac8b.png is blank, crop a white image of default size!
+2021-04-04 15:05:27,908 root  INFO     src/data/formula_images\10a78d49e3.png is blank, crop a white image of default size!
+2021-04-04 15:05:31,883 root  INFO     src/data/formula_images\1844bc2331.png is blank, crop a white image of default size!
+2021-04-04 15:05:36,717 root  INFO     src/data/formula_images\2b03c8a39d.png is blank, crop a white image of default size!
+2021-04-04 15:05:38,111 root  INFO     src/data/formula_images\238ebbd7c0.png is blank, crop a white image of default size!
+2021-04-04 15:05:54,569 root  INFO     src/data/formula_images\23bc7fa564.png is blank, crop a white image of default size!
+2021-04-04 15:05:56,036 root  INFO     src/data/formula_images\1ffa3723c9.png is blank, crop a white image of default size!
+2021-04-04 15:05:57,730 root  INFO     src/data/formula_images\10ff74fd67.png is blank, crop a white image of default size!
+2021-04-04 15:06:09,624 root  INFO     src/data/formula_images\18b81f0eda.png is blank, crop a white image of default size!
+2021-04-04 15:06:16,103 root  INFO     src/data/formula_images\18cb9e2f6b.png is blank, crop a white image of default size!
+2021-04-04 15:06:24,229 root  INFO     src/data/formula_images\27c9f837dd.png is blank, crop a white image of default size!
+2021-04-04 15:06:25,693 root  INFO     src/data/formula_images\204cb95212.png is blank, crop a white image of default size!
+2021-04-04 15:06:27,708 root  INFO     src/data/formula_images\1caa2872c3.png is blank, crop a white image of default size!
+2021-04-04 15:06:27,717 root  INFO     src/data/formula_images\114cb2608c.png is blank, crop a white image of default size!
+2021-04-04 15:06:32,169 root  INFO     src/data/formula_images\20601cd060.png is blank, crop a white image of default size!
+2021-04-04 15:06:55,619 root  INFO     src/data/formula_images\2468172c15.png is blank, crop a white image of default size!
+2021-04-04 15:06:57,821 root  INFO     src/data/formula_images\119d107b13.png is blank, crop a white image of default size!
+2021-04-04 15:07:02,191 root  INFO     src/data/formula_images\1d04b6a18d.png is blank, crop a white image of default size!
+2021-04-04 15:07:11,138 root  INFO     src/data/formula_images\2c0bfa69ec.png is blank, crop a white image of default size!
+2021-04-04 15:07:14,080 root  INFO     src/data/formula_images\196403cdae.png is blank, crop a white image of default size!
+2021-04-04 15:07:20,424 root  INFO     src/data/formula_images\19768dec97.png is blank, crop a white image of default size!
+2021-04-04 15:07:22,269 root  INFO     src/data/formula_images\15aa108381.png is blank, crop a white image of default size!
+2021-04-04 15:07:25,492 root  INFO     src/data/formula_images\20f0ffe224.png is blank, crop a white image of default size!
+2021-04-04 15:07:29,885 root  INFO     src/data/formula_images\20fc2e9061.png is blank, crop a white image of default size!
+2021-04-04 15:07:34,443 root  INFO     src/data/formula_images\199f771a6d.png is blank, crop a white image of default size!
+2021-04-04 15:07:39,080 root  INFO     src/data/formula_images\1d5e3de6b9.png is blank, crop a white image of default size!
+2021-04-04 15:07:51,082 root  INFO     src/data/formula_images\15f5d446f7.png is blank, crop a white image of default size!
+2021-04-04 15:07:52,023 root  INFO     src/data/formula_images\2c6e6883d1.png is blank, crop a white image of default size!
+2021-04-04 15:08:01,189 root  INFO     src/data/formula_images\2519abac57.png is blank, crop a white image of default size!
+2021-04-04 15:08:04,094 root  INFO     src/data/formula_images\124f9b043d.png is blank, crop a white image of default size!
+2021-04-04 15:08:04,114 root  INFO     src/data/formula_images\161d8cbd60.png is blank, crop a white image of default size!
+2021-04-04 15:08:12,996 root  INFO     src/data/formula_images\1265a67e9e.png is blank, crop a white image of default size!
+2021-04-04 15:08:14,798 root  INFO     src/data/formula_images\1639fa1ac4.png is blank, crop a white image of default size!
+2021-04-04 15:08:15,709 root  INFO     src/data/formula_images\217e86467a.png is blank, crop a white image of default size!
+2021-04-04 15:08:19,177 root  INFO     src/data/formula_images\28ffd1c862.png is blank, crop a white image of default size!
+2021-04-04 15:08:21,666 root  INFO     src/data/formula_images\127a7744bb.png is blank, crop a white image of default size!
+2021-04-04 15:08:30,108 root  INFO     src/data/formula_images\165ed6e272.png is blank, crop a white image of default size!
+2021-04-04 15:08:32,163 root  INFO     src/data/formula_images\1df1a76ea0.png is blank, crop a white image of default size!
+2021-04-04 15:08:40,984 root  INFO     src/data/formula_images\2cfac92328.png is blank, crop a white image of default size!
+2021-04-04 15:08:50,407 root  INFO     src/data/formula_images\21de68f407.png is blank, crop a white image of default size!
+2021-04-04 15:09:04,933 root  INFO     src/data/formula_images\25c5ca5e77.png is blank, crop a white image of default size!
+2021-04-04 15:09:05,323 root  INFO     src/data/formula_images\16ba921ad9.png is blank, crop a white image of default size!
+2021-04-04 15:09:06,613 root  INFO     src/data/formula_images\12f59c746b.png is blank, crop a white image of default size!
+2021-04-04 15:09:16,262 root  INFO     src/data/formula_images\29979e0cd1.png is blank, crop a white image of default size!
+2021-04-04 15:09:21,055 root  INFO     src/data/formula_images\2228cf67e7.png is blank, crop a white image of default size!
+2021-04-04 15:09:23,354 root  INFO     src/data/formula_images\222f779e38.png is blank, crop a white image of default size!
+2021-04-04 15:09:28,826 root  INFO     src/data/formula_images\132766b34d.png is blank, crop a white image of default size!
+2021-04-04 15:09:39,825 root  INFO     src/data/formula_images\225d1c0cc0.png is blank, crop a white image of default size!
+2021-04-04 15:09:44,004 root  INFO     src/data/formula_images\29dd3383b2.png is blank, crop a white image of default size!
+2021-04-04 15:09:44,703 root  INFO     src/data/formula_images\135355764f.png is blank, crop a white image of default size!
+2021-04-04 15:09:46,336 root  INFO     src/data/formula_images\1ebc5849fc.png is blank, crop a white image of default size!
+2021-04-04 15:09:53,009 root  INFO     src/data/formula_images\227cdde0ee.png is blank, crop a white image of default size!
+2021-04-04 15:09:59,410 root  INFO     src/data/formula_images\1755e0b075.png is blank, crop a white image of default size!
+2021-04-04 15:10:03,493 root  INFO     src/data/formula_images\1b2539a63c.png is blank, crop a white image of default size!
+2021-04-04 15:10:04,008 root  INFO     src/data/formula_images\1ee03bde9f.png is blank, crop a white image of default size!
+2021-04-04 15:10:13,081 root  INFO     src/data/formula_images\139bce1648.png is blank, crop a white image of default size!
+2021-04-04 15:10:16,583 root  INFO     src/data/formula_images\2685582f3b.png is blank, crop a white image of default size!
+2021-04-04 15:10:17,188 root  INFO     src/data/formula_images\2df357b7b7.png is blank, crop a white image of default size!
+2021-04-04 15:10:25,538 root  INFO     src/data/formula_images\359a074028.png is blank, crop a white image of default size!
+2021-04-04 15:10:26,711 root  INFO     src/data/formula_images\484041df8c.png is blank, crop a white image of default size!
+2021-04-04 15:10:26,833 root  INFO     src/data/formula_images\359d38725d.png is blank, crop a white image of default size!
+2021-04-04 15:10:58,962 root  INFO     src/data/formula_images\48992ec9a4.png is blank, crop a white image of default size!
+2021-04-04 15:11:06,865 root  INFO     src/data/formula_images\32355bb4ab.png is blank, crop a white image of default size!
+2021-04-04 15:11:09,113 root  INFO     src/data/formula_images\3d84782a23.png is blank, crop a white image of default size!
+2021-04-04 15:11:26,931 root  INFO     src/data/formula_images\3269b1ed67.png is blank, crop a white image of default size!
+2021-04-04 15:11:29,416 root  INFO     src/data/formula_images\2ecc4d9068.png is blank, crop a white image of default size!
+2021-04-04 15:11:30,772 root  INFO     src/data/formula_images\364cbf7ca2.png is blank, crop a white image of default size!
+2021-04-04 15:11:32,866 root  INFO     src/data/formula_images\2ed5631d73.png is blank, crop a white image of default size!
+2021-04-04 15:11:34,294 root  INFO     src/data/formula_images\48f1896cea.png is blank, crop a white image of default size!
+2021-04-04 15:11:39,141 root  INFO     src/data/formula_images\3a14745857.png is blank, crop a white image of default size!
+2021-04-04 15:11:47,460 root  INFO     src/data/formula_images\367cb6fa40.png is blank, crop a white image of default size!
+2021-04-04 15:11:53,633 root  INFO     src/data/formula_images\492730e813.png is blank, crop a white image of default size!
+2021-04-04 15:11:53,732 root  INFO     src/data/formula_images\492782ff9e.png is blank, crop a white image of default size!
+2021-04-04 15:11:54,823 root  INFO     src/data/formula_images\3df7f3c48f.png is blank, crop a white image of default size!
+2021-04-04 15:11:55,507 root  INFO     src/data/formula_images\41a4dec406.png is blank, crop a white image of default size!
+2021-04-04 15:12:05,800 root  INFO     src/data/formula_images\32d298c036.png is blank, crop a white image of default size!
+2021-04-04 15:12:06,329 root  INFO     src/data/formula_images\36ab1fa13f.png is blank, crop a white image of default size!
+2021-04-04 15:12:06,940 root  INFO     src/data/formula_images\41c3692612.png is blank, crop a white image of default size!
+2021-04-04 15:12:12,089 root  INFO     src/data/formula_images\36b92bee31.png is blank, crop a white image of default size!
+2021-04-04 15:12:13,138 root  INFO     src/data/formula_images\3a6f8167c2.png is blank, crop a white image of default size!
+2021-04-04 15:12:14,625 root  INFO     src/data/formula_images\496091f7ba.png is blank, crop a white image of default size!
+2021-04-04 15:12:16,234 root  INFO     src/data/formula_images\3e319384f8.png is blank, crop a white image of default size!
+2021-04-04 15:12:24,965 root  INFO     src/data/formula_images\330856aecf.png is blank, crop a white image of default size!
+2021-04-04 15:12:28,257 root  INFO     src/data/formula_images\45b663dc52.png is blank, crop a white image of default size!
+2021-04-04 15:12:30,123 root  INFO     src/data/formula_images\41f5e493f7.png is blank, crop a white image of default size!
+2021-04-04 15:12:37,382 root  INFO     src/data/formula_images\45d3392cba.png is blank, crop a white image of default size!
+2021-04-04 15:12:38,917 root  INFO     src/data/formula_images\45d7d7b5bf.png is blank, crop a white image of default size!
+2021-04-04 15:12:41,733 root  INFO     src/data/formula_images\45de109380.png is blank, crop a white image of default size!
+2021-04-04 15:12:50,028 root  INFO     src/data/formula_images\3ace1d6d05.png is blank, crop a white image of default size!
+2021-04-04 15:12:53,500 root  INFO     src/data/formula_images\49cd13da83.png is blank, crop a white image of default size!
+2021-04-04 15:12:53,843 root  INFO     src/data/formula_images\3e9a65e86e.png is blank, crop a white image of default size!
+2021-04-04 15:13:01,516 root  INFO     src/data/formula_images\3737296049.png is blank, crop a white image of default size!
+2021-04-04 15:13:08,518 root  INFO     src/data/formula_images\3ec30cc09d.png is blank, crop a white image of default size!
+2021-04-04 15:13:09,514 root  INFO     src/data/formula_images\3b0988375e.png is blank, crop a white image of default size!
+2021-04-04 15:13:10,581 root  INFO     src/data/formula_images\3ec97dfa71.png is blank, crop a white image of default size!
+2021-04-04 15:13:15,157 root  INFO     src/data/formula_images\3ed5cf108a.png is blank, crop a white image of default size!
+2021-04-04 15:13:15,446 root  INFO     src/data/formula_images\3398e13bee.png is blank, crop a white image of default size!
+2021-04-04 15:13:16,438 root  INFO     src/data/formula_images\463eaac471.png is blank, crop a white image of default size!
+2021-04-04 15:13:24,928 root  INFO     src/data/formula_images\33b04de4be.png is blank, crop a white image of default size!
+2021-04-04 15:13:26,506 root  INFO     src/data/formula_images\428b817c2d.png is blank, crop a white image of default size!
+2021-04-04 15:13:28,917 root  INFO     src/data/formula_images\4a2652aad9.png is blank, crop a white image of default size!
+2021-04-04 15:13:39,571 root  INFO     src/data/formula_images\3014b0a39e.png is blank, crop a white image of default size!
+2021-04-04 15:13:48,277 root  INFO     src/data/formula_images\4a54a366e5.png is blank, crop a white image of default size!
+2021-04-04 15:13:50,289 root  INFO     src/data/formula_images\4a5baead57.png is blank, crop a white image of default size!
+2021-04-04 15:13:55,559 root  INFO     src/data/formula_images\304255b723.png is blank, crop a white image of default size!
+2021-04-04 15:14:00,589 root  INFO     src/data/formula_images\3b8826eefd.png is blank, crop a white image of default size!
+2021-04-04 15:14:13,252 root  INFO     src/data/formula_images\3ba7f4460c.png is blank, crop a white image of default size!
+2021-04-04 15:14:14,167 root  INFO     src/data/formula_images\3082b8cfcc.png is blank, crop a white image of default size!
+2021-04-04 15:14:16,689 root  INFO     src/data/formula_images\46d816feab.png is blank, crop a white image of default size!
+2021-04-04 15:14:19,261 root  INFO     src/data/formula_images\46de86995f.png is blank, crop a white image of default size!
+2021-04-04 15:14:22,910 root  INFO     src/data/formula_images\3bc214110a.png is blank, crop a white image of default size!
+2021-04-04 15:14:27,823 root  INFO     src/data/formula_images\46f97793ea.png is blank, crop a white image of default size!
+2021-04-04 15:14:30,899 root  INFO     src/data/formula_images\47023ead24.png is blank, crop a white image of default size!
+2021-04-04 15:14:43,227 root  INFO     src/data/formula_images\3fb7eec8be.png is blank, crop a white image of default size!
+2021-04-04 15:14:48,515 root  INFO     src/data/formula_images\4736c82a22.png is blank, crop a white image of default size!
+2021-04-04 15:14:52,162 root  INFO     src/data/formula_images\3fcaf898bf.png is blank, crop a white image of default size!
+2021-04-04 15:14:52,872 root  INFO     src/data/formula_images\3fcd34f719.png is blank, crop a white image of default size!
+2021-04-04 15:14:53,994 root  INFO     src/data/formula_images\34a9bdc543.png is blank, crop a white image of default size!
+2021-04-04 15:14:54,983 root  INFO     src/data/formula_images\3c102975ba.png is blank, crop a white image of default size!
+2021-04-04 15:14:56,676 root  INFO     src/data/formula_images\4746fc068c.png is blank, crop a white image of default size!
+2021-04-04 15:15:02,833 root  INFO     src/data/formula_images\4b137eec8b.png is blank, crop a white image of default size!
+2021-04-04 15:15:17,844 root  INFO     src/data/formula_images\43b0e17edc.png is blank, crop a white image of default size!
+2021-04-04 15:15:28,718 root  INFO     src/data/formula_images\3147344dfb.png is blank, crop a white image of default size!
+2021-04-04 15:15:29,025 root  INFO     src/data/formula_images\402e318b43.png is blank, crop a white image of default size!
+2021-04-04 15:15:45,599 root  INFO     src/data/formula_images\40566938c9.png is blank, crop a white image of default size!
+2021-04-04 15:15:51,283 root  INFO     src/data/formula_images\3cad421ae4.png is blank, crop a white image of default size!
+2021-04-04 15:15:55,465 root  INFO     src/data/formula_images\3cb7338a6b.png is blank, crop a white image of default size!
+2021-04-04 15:15:56,345 root  INFO     src/data/formula_images\4b9de302f6.png is blank, crop a white image of default size!
+2021-04-04 15:16:11,256 root  INFO     src/data/formula_images\4bc6afb7d6.png is blank, crop a white image of default size!
+2021-04-04 15:16:18,079 root  INFO     src/data/formula_images\358830a6f1.png is blank, crop a white image of default size!
+2021-04-04 15:16:23,987 root  INFO     src/data/formula_images\4c0e277d31.png is blank, crop a white image of default size!
+2021-04-04 15:16:30,493 root  INFO     src/data/formula_images\57245b5a93.png is blank, crop a white image of default size!
+2021-04-04 15:16:36,423 root  INFO     src/data/formula_images\4fc8657ff6.png is blank, crop a white image of default size!
+2021-04-04 15:16:39,366 root  INFO     src/data/formula_images\6276e90d96.png is blank, crop a white image of default size!
+2021-04-04 15:16:41,871 root  INFO     src/data/formula_images\664546bdcd.png is blank, crop a white image of default size!
+2021-04-04 15:16:46,525 root  INFO     src/data/formula_images\628ad263dd.png is blank, crop a white image of default size!
+2021-04-04 15:16:48,531 root  INFO     src/data/formula_images\6657e5bf8a.png is blank, crop a white image of default size!
+2021-04-04 15:16:52,567 root  INFO     src/data/formula_images\6664ca03f7.png is blank, crop a white image of default size!
+2021-04-04 15:16:56,111 root  INFO     src/data/formula_images\5768faf45a.png is blank, crop a white image of default size!
+2021-04-04 15:17:16,369 root  INFO     src/data/formula_images\57a40310cf.png is blank, crop a white image of default size!
+2021-04-04 15:17:32,232 root  INFO     src/data/formula_images\540904c6c7.png is blank, crop a white image of default size!
+2021-04-04 15:17:35,712 root  INFO     src/data/formula_images\5b92558455.png is blank, crop a white image of default size!
+2021-04-04 15:17:36,497 root  INFO     src/data/formula_images\5413e82469.png is blank, crop a white image of default size!
+2021-04-04 15:17:37,519 root  INFO     src/data/formula_images\4cc613b421.png is blank, crop a white image of default size!
+2021-04-04 15:17:51,315 root  INFO     src/data/formula_images\543dea68e6.png is blank, crop a white image of default size!
+2021-04-04 15:17:52,659 root  INFO     src/data/formula_images\5f75c72f03.png is blank, crop a white image of default size!
+2021-04-04 15:17:52,781 root  INFO     src/data/formula_images\5443883607.png is blank, crop a white image of default size!
+2021-04-04 15:17:58,245 root  INFO     src/data/formula_images\58113bd47f.png is blank, crop a white image of default size!
+2021-04-04 15:18:20,312 root  INFO     src/data/formula_images\50d9bc4c78.png is blank, crop a white image of default size!
+2021-04-04 15:18:23,802 root  INFO     src/data/formula_images\5c09761341.png is blank, crop a white image of default size!
+2021-04-04 15:18:24,786 root  INFO     src/data/formula_images\4d430f3022.png is blank, crop a white image of default size!
+2021-04-04 15:18:25,273 root  INFO     src/data/formula_images\63905483e4.png is blank, crop a white image of default size!
+2021-04-04 15:18:37,591 root  INFO     src/data/formula_images\63b25892c8.png is blank, crop a white image of default size!
+2021-04-04 15:18:38,002 root  INFO     src/data/formula_images\5c331105c8.png is blank, crop a white image of default size!
+2021-04-04 15:18:44,313 root  INFO     src/data/formula_images\588e67053f.png is blank, crop a white image of default size!
+2021-04-04 15:18:44,690 root  INFO     src/data/formula_images\511ee7c8f1.png is blank, crop a white image of default size!
+2021-04-04 15:18:45,120 root  INFO     src/data/formula_images\54ca967794.png is blank, crop a white image of default size!
+2021-04-04 15:18:45,655 root  INFO     src/data/formula_images\63c3e89a25.png is blank, crop a white image of default size!
+2021-04-04 15:19:15,291 root  INFO     src/data/formula_images\58e4f07fff.png is blank, crop a white image of default size!
+2021-04-04 15:19:16,362 root  INFO     src/data/formula_images\604d710c5c.png is blank, crop a white image of default size!
+2021-04-04 15:19:23,760 root  INFO     src/data/formula_images\4dcd434bc0.png is blank, crop a white image of default size!
+2021-04-04 15:19:29,919 root  INFO     src/data/formula_images\590b2ea4b4.png is blank, crop a white image of default size!
+2021-04-04 15:19:31,051 root  INFO     src/data/formula_images\60732b637b.png is blank, crop a white image of default size!
+2021-04-04 15:19:43,322 root  INFO     src/data/formula_images\592de8ace2.png is blank, crop a white image of default size!
+2021-04-04 15:19:48,037 root  INFO     src/data/formula_images\51bb54b284.png is blank, crop a white image of default size!
+2021-04-04 15:19:48,640 root  INFO     src/data/formula_images\6463106fd8.png is blank, crop a white image of default size!
+2021-04-04 15:19:49,673 root  INFO     src/data/formula_images\557123812b.png is blank, crop a white image of default size!
+2021-04-04 15:19:50,971 root  INFO     src/data/formula_images\557452451f.png is blank, crop a white image of default size!
+2021-04-04 15:19:51,152 root  INFO     src/data/formula_images\55749f8886.png is blank, crop a white image of default size!
+2021-04-04 15:19:55,495 root  INFO     src/data/formula_images\60b5419247.png is blank, crop a white image of default size!
+2021-04-04 15:20:01,585 root  INFO     src/data/formula_images\60c3edf7c1.png is blank, crop a white image of default size!
+2021-04-04 15:20:03,931 root  INFO     src/data/formula_images\6488a3c343.png is blank, crop a white image of default size!
+2021-04-04 15:20:04,128 root  INFO     src/data/formula_images\6489994f06.png is blank, crop a white image of default size!
+2021-04-04 15:20:07,318 root  INFO     src/data/formula_images\4e391e7b4a.png is blank, crop a white image of default size!
+2021-04-04 15:20:08,723 root  INFO     src/data/formula_images\6494ea17ad.png is blank, crop a white image of default size!
+2021-04-04 15:20:22,525 root  INFO     src/data/formula_images\5d42e74087.png is blank, crop a white image of default size!
+2021-04-04 15:20:30,135 root  INFO     src/data/formula_images\522f897846.png is blank, crop a white image of default size!
+2021-04-04 15:20:31,167 root  INFO     src/data/formula_images\55df23c85a.png is blank, crop a white image of default size!
+2021-04-04 15:20:49,863 root  INFO     src/data/formula_images\5263d39ec1.png is blank, crop a white image of default size!
+2021-04-04 15:20:56,664 root  INFO     src/data/formula_images\614e27a8ad.png is blank, crop a white image of default size!
+2021-04-04 15:21:02,622 root  INFO     src/data/formula_images\59fad70ef1.png is blank, crop a white image of default size!
+2021-04-04 15:21:04,093 root  INFO     src/data/formula_images\528779926f.png is blank, crop a white image of default size!
+2021-04-04 15:21:07,445 root  INFO     src/data/formula_images\5a06255dab.png is blank, crop a white image of default size!
+2021-04-04 15:21:13,903 root  INFO     src/data/formula_images\5a16b9bf6b.png is blank, crop a white image of default size!
+2021-04-04 15:21:27,466 root  INFO     src/data/formula_images\567114c24e.png is blank, crop a white image of default size!
+2021-04-04 15:21:47,223 root  INFO     src/data/formula_images\695119f2d8.png is blank, crop a white image of default size!
+2021-04-04 15:21:54,966 root  INFO     src/data/formula_images\56b756ca7b.png is blank, crop a white image of default size!
+2021-04-04 15:22:00,445 root  INFO     src/data/formula_images\4f4cae603d.png is blank, crop a white image of default size!
+2021-04-04 15:22:01,993 root  INFO     src/data/formula_images\5a8b8a7e75.png is blank, crop a white image of default size!
+2021-04-04 15:22:35,041 root  INFO     src/data/formula_images\6248ffd641.png is blank, crop a white image of default size!
+2021-04-04 15:22:38,216 root  INFO     src/data/formula_images\6a0475e93f.png is blank, crop a white image of default size!
+2021-04-04 15:22:40,687 root  INFO     src/data/formula_images\6a0b79a95e.png is blank, crop a white image of default size!
+2021-04-04 15:22:44,007 root  INFO     src/data/formula_images\87a9e980af.png is blank, crop a white image of default size!
+2021-04-04 15:22:48,718 root  INFO     src/data/formula_images\7520fdedf7.png is blank, crop a white image of default size!
+2021-04-04 15:22:49,761 root  INFO     src/data/formula_images\78f4821740.png is blank, crop a white image of default size!
+2021-04-04 15:22:50,464 root  INFO     src/data/formula_images\888d7cf838.png is blank, crop a white image of default size!
+2021-04-04 15:22:53,902 root  INFO     src/data/formula_images\790023d7c9.png is blank, crop a white image of default size!
+2021-04-04 15:22:55,934 root  INFO     src/data/formula_images\c51785d0f3.png is blank, crop a white image of default size!
+2021-04-04 15:22:57,441 root  INFO     src/data/formula_images\7cd13d6545.png is blank, crop a white image of default size!
+2021-04-04 15:23:00,521 root  INFO     src/data/formula_images\718bbdb730.png is blank, crop a white image of default size!
+2021-04-04 15:23:06,932 root  INFO     src/data/formula_images\791b164b33.png is blank, crop a white image of default size!
+2021-04-04 15:23:22,945 root  INFO     src/data/formula_images\7d11ecdbb8.png is blank, crop a white image of default size!
+2021-04-04 15:23:24,199 root  INFO     src/data/formula_images\6a7566cb3b.png is blank, crop a white image of default size!
+2021-04-04 15:23:27,921 root  INFO     src/data/formula_images\8f07ae3607.png is blank, crop a white image of default size!
+2021-04-04 15:23:31,657 root  INFO     src/data/formula_images\cb42f0184c.png is blank, crop a white image of default size!
+2021-04-04 15:23:55,807 root  INFO     src/data/formula_images\cf606fddd0.png is blank, crop a white image of default size!
+2021-04-04 15:24:00,151 root  INFO     src/data/formula_images\7d82190faf.png is blank, crop a white image of default size!
+2021-04-04 15:24:01,643 root  INFO     src/data/formula_images\6e8003064f.png is blank, crop a white image of default size!
+2021-04-04 15:24:04,210 root  INFO     src/data/formula_images\75dc30bf82.png is blank, crop a white image of default size!
+2021-04-04 15:24:11,021 root  INFO     src/data/formula_images\d2012f0328.png is blank, crop a white image of default size!
+2021-04-04 15:24:13,203 root  INFO     src/data/formula_images\6e9dbd36e7.png is blank, crop a white image of default size!
+2021-04-04 15:24:18,617 root  INFO     src/data/formula_images\7605bfe3a8.png is blank, crop a white image of default size!
+2021-04-04 15:24:18,961 root  INFO     src/data/formula_images\725b3ce055.png is blank, crop a white image of default size!
+2021-04-04 15:24:27,019 root  INFO     src/data/formula_images\d45df81e99.png is blank, crop a white image of default size!
+2021-04-04 15:24:35,019 root  INFO     src/data/formula_images\d604cf40f5.png is blank, crop a white image of default size!
+2021-04-04 15:24:35,670 root  INFO     src/data/formula_images\728b25904a.png is blank, crop a white image of default size!
+2021-04-04 15:24:45,618 root  INFO     src/data/formula_images\764858b14c.png is blank, crop a white image of default size!
+2021-04-04 15:24:47,086 root  INFO     src/data/formula_images\72a4fd68a2.png is blank, crop a white image of default size!
+2021-04-04 15:24:47,711 root  INFO     src/data/formula_images\6b53d4a095.png is blank, crop a white image of default size!
+2021-04-04 15:24:53,203 root  INFO     src/data/formula_images\7a36cee849.png is blank, crop a white image of default size!
+2021-04-04 15:24:56,605 root  INFO     src/data/formula_images\6f12557f5e.png is blank, crop a white image of default size!
+2021-04-04 15:24:58,116 root  INFO     src/data/formula_images\6b7077db9b.png is blank, crop a white image of default size!
+2021-04-04 15:24:59,574 root  INFO     src/data/formula_images\9d89f95f82.png is blank, crop a white image of default size!
+2021-04-04 15:25:02,483 root  INFO     src/data/formula_images\daaa679d00.png is blank, crop a white image of default size!
+2021-04-04 15:25:09,086 root  INFO     src/data/formula_images\db8682e30e.png is blank, crop a white image of default size!
+2021-04-04 15:25:22,224 root  INFO     src/data/formula_images\72ff5d3195.png is blank, crop a white image of default size!
+2021-04-04 15:25:27,778 root  INFO     src/data/formula_images\730fe46918.png is blank, crop a white image of default size!
+2021-04-04 15:25:29,308 root  INFO     src/data/formula_images\6f6598c067.png is blank, crop a white image of default size!
+2021-04-04 15:25:29,758 root  INFO     src/data/formula_images\6f672b42e3.png is blank, crop a white image of default size!
+2021-04-04 15:25:35,266 root  INFO     src/data/formula_images\76cbd0dbbb.png is blank, crop a white image of default size!
+2021-04-04 15:25:39,361 root  INFO     src/data/formula_images\a3d6647091.png is blank, crop a white image of default size!
+2021-04-04 15:25:39,389 root  INFO     src/data/formula_images\e09b39c5e0.png is blank, crop a white image of default size!
+2021-04-04 15:25:44,076 root  INFO     src/data/formula_images\76de76ecab.png is blank, crop a white image of default size!
+2021-04-04 15:25:47,418 root  INFO     src/data/formula_images\7ea5c49e6e.png is blank, crop a white image of default size!
+2021-04-04 15:25:49,139 root  INFO     src/data/formula_images\a5cfc28738.png is blank, crop a white image of default size!
+2021-04-04 15:25:59,555 root  INFO     src/data/formula_images\6c05d39736.png is blank, crop a white image of default size!
+2021-04-04 15:26:00,714 root  INFO     src/data/formula_images\6fb74490f3.png is blank, crop a white image of default size!
+2021-04-04 15:26:00,990 root  INFO     src/data/formula_images\e42701d38b.png is blank, crop a white image of default size!
+2021-04-04 15:26:01,322 root  INFO     src/data/formula_images\6c0caa6e5d.png is blank, crop a white image of default size!
+2021-04-04 15:26:04,393 root  INFO     src/data/formula_images\a836285c0d.png is blank, crop a white image of default size!
+2021-04-04 15:26:06,992 root  INFO     src/data/formula_images\6c1d41caa1.png is blank, crop a white image of default size!
+2021-04-04 15:26:08,506 root  INFO     src/data/formula_images\7b0d7dd0a7.png is blank, crop a white image of default size!
+2021-04-04 15:26:18,593 root  INFO     src/data/formula_images\6fe81070df.png is blank, crop a white image of default size!
+2021-04-04 15:26:21,989 root  INFO     src/data/formula_images\739ebcaca2.png is blank, crop a white image of default size!
+2021-04-04 15:26:23,028 root  INFO     src/data/formula_images\ab19605cbe.png is blank, crop a white image of default size!
+2021-04-04 15:26:25,828 root  INFO     src/data/formula_images\73a7cfbc31.png is blank, crop a white image of default size!
+2021-04-04 15:26:36,241 root  INFO     src/data/formula_images\7f2220b194.png is blank, crop a white image of default size!
+2021-04-04 15:26:47,108 root  INFO     src/data/formula_images\ebec325458.png is blank, crop a white image of default size!
+2021-04-04 15:26:59,524 root  INFO     src/data/formula_images\6ca46e363c.png is blank, crop a white image of default size!
+2021-04-04 15:27:06,272 root  INFO     src/data/formula_images\6cb65cd6c7.png is blank, crop a white image of default size!
+2021-04-04 15:27:07,159 root  INFO     src/data/formula_images\6cb82ee063.png is blank, crop a white image of default size!
+2021-04-04 15:27:07,897 root  INFO     src/data/formula_images\7063071bca.png is blank, crop a white image of default size!
+2021-04-04 15:27:09,655 root  INFO     src/data/formula_images\b2315cce21.png is blank, crop a white image of default size!
+2021-04-04 15:27:11,219 root  INFO     src/data/formula_images\effce6eb5b.png is blank, crop a white image of default size!
+2021-04-04 15:27:13,024 root  INFO     src/data/formula_images\706d45afd8.png is blank, crop a white image of default size!
+2021-04-04 15:27:17,092 root  INFO     src/data/formula_images\f0bf0dc25d.png is blank, crop a white image of default size!
+2021-04-04 15:27:19,802 root  INFO     src/data/formula_images\b3862f5535.png is blank, crop a white image of default size!
+2021-04-04 15:27:20,112 root  INFO     src/data/formula_images\74273c87e3.png is blank, crop a white image of default size!
+2021-04-04 15:27:27,917 root  INFO     src/data/formula_images\b506653e7b.png is blank, crop a white image of default size!
+2021-04-04 15:27:33,376 root  INFO     src/data/formula_images\6cf6500042.png is blank, crop a white image of default size!
+2021-04-04 15:27:35,150 root  INFO     src/data/formula_images\709c36ed32.png is blank, crop a white image of default size!
+2021-04-04 15:27:36,358 root  INFO     src/data/formula_images\7824756736.png is blank, crop a white image of default size!
+2021-04-04 15:27:47,681 root  INFO     src/data/formula_images\70b7624401.png is blank, crop a white image of default size!
+2021-04-04 15:27:54,148 root  INFO     src/data/formula_images\70c947fac9.png is blank, crop a white image of default size!
+2021-04-04 15:28:02,998 root  INFO     src/data/formula_images\bb2533f5dd.png is blank, crop a white image of default size!
+2021-04-04 15:28:05,784 root  INFO     src/data/formula_images\bbd091a9e6.png is blank, crop a white image of default size!
+2021-04-04 15:28:06,091 root  INFO     src/data/formula_images\f90bca8bd2.png is blank, crop a white image of default size!
+2021-04-04 15:28:09,422 root  INFO     src/data/formula_images\70f6977dc2.png is blank, crop a white image of default size!
+2021-04-04 15:28:15,158 root  INFO     src/data/formula_images\6d62c05c71.png is blank, crop a white image of default size!
+2021-04-04 15:28:18,640 root  INFO     src/data/formula_images\82719bef9c.png is blank, crop a white image of default size!
+2021-04-04 15:28:31,035 root  INFO     src/data/formula_images\78b5eff1d0.png is blank, crop a white image of default size!
+2021-04-04 15:28:40,844 root  INFO     src/data/formula_images\86f3e8b0b0.png is blank, crop a white image of default size!
+2021-04-04 15:28:44,166 root  INFO     Jobs finished
+2021-04-05 10:14:06,428 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:14:06,467 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 10:14:21,528 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:14:21,547 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 10:14:38,183 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:14:38,201 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 10:14:38,219 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:14:38,220 root  INFO     Jobs finished
+2021-04-05 10:20:57,125 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:20:57,145 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 10:20:57,163 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:20:57,164 root  INFO     Jobs finished
+2021-04-05 10:32:48,906 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:32:48,929 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 10:32:48,948 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:32:48,949 root  INFO     Jobs finished
+2021-04-05 10:34:56,283 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:34:56,857 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:35:41,869 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:35:42,424 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:36:31,088 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:36:31,658 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:36:31,660 root  INFO     Jobs finished
+2021-04-05 10:38:55,600 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:38:56,176 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:38:56,177 root  INFO     Jobs finished
+2021-04-05 10:39:07,439 root  INFO     Script being executed: D:\FSDL\im2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-05 10:39:08,037 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:39:08,038 root  INFO     Jobs finished
+2021-04-05 10:39:31,917 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:39:32,722 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:39:32,724 root  INFO     Jobs finished
+2021-04-05 10:39:46,020 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:39:46,736 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:39:46,737 root  INFO     Jobs finished
+2021-04-05 10:40:29,625 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:40:30,356 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:40:30,358 root  INFO     Jobs finished
+2021-04-05 10:41:09,211 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:41:09,938 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:41:09,939 root  INFO     Jobs finished
+2021-04-05 10:42:24,677 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:42:25,379 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:42:25,381 root  INFO     Jobs finished
+2021-04-05 10:42:27,264 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:42:27,972 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:42:27,973 root  INFO     Jobs finished
+2021-04-05 10:42:29,528 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:42:30,238 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:42:30,239 root  INFO     Jobs finished
+2021-04-05 10:43:38,037 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:43:38,738 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:43:38,740 root  INFO     Jobs finished
+2021-04-05 10:44:46,679 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:44:47,393 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:44:47,394 root  INFO     Jobs finished
+2021-04-05 10:44:57,069 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:44:57,738 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:44:57,739 root  INFO     Jobs finished
+2021-04-05 10:46:14,250 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:46:14,940 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:46:14,942 root  INFO     Jobs finished
+2021-04-05 10:46:27,397 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:46:28,109 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:46:28,110 root  INFO     Jobs finished
+2021-04-05 10:47:25,729 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:47:26,426 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:47:26,428 root  INFO     Jobs finished
+2021-04-05 10:56:45,137 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:56:45,892 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:56:45,894 root  INFO     Jobs finished
+2021-04-05 10:57:01,242 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:57:01,938 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:57:01,940 root  INFO     Jobs finished
+2021-04-05 10:58:26,587 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:58:27,371 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:58:27,373 root  INFO     Jobs finished
+2021-04-05 10:58:47,049 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 10:58:47,765 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 10:58:47,766 root  INFO     Jobs finished
+2021-04-05 11:07:41,651 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:07:42,297 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:07:42,299 root  INFO     Jobs finished
+2021-04-05 11:08:02,174 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:08:02,829 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:08:02,831 root  INFO     Jobs finished
+2021-04-05 11:12:30,881 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:12:31,515 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:12:31,517 root  INFO     Jobs finished
+2021-04-05 11:14:46,201 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:14:46,870 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:14:46,871 root  INFO     Jobs finished
+2021-04-05 11:15:15,311 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:15:16,012 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:15:16,013 root  INFO     Jobs finished
+2021-04-05 11:15:34,637 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:15:35,357 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:15:35,359 root  INFO     Jobs finished
+2021-04-05 11:15:55,532 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:15:56,232 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:15:56,233 root  INFO     Jobs finished
+2021-04-05 11:16:17,527 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:16:18,176 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:16:18,178 root  INFO     Jobs finished
+2021-04-05 11:18:08,284 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:18:08,923 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:18:08,925 root  INFO     Jobs finished
+2021-04-05 11:19:59,391 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:20:00,039 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:20:00,040 root  INFO     Jobs finished
+2021-04-05 11:20:09,269 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:20:09,956 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:20:09,957 root  INFO     Jobs finished
+2021-04-05 11:42:12,501 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:42:13,497 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:42:13,499 root  INFO     Jobs finished
+2021-04-05 11:42:22,107 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:42:22,836 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:42:22,837 root  INFO     Jobs finished
+2021-04-05 11:43:10,425 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:43:11,126 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:43:11,127 root  INFO     Jobs finished
+2021-04-05 11:43:23,347 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:43:24,048 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:43:24,050 root  INFO     Jobs finished
+2021-04-05 11:43:28,799 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:43:29,673 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:43:29,676 root  INFO     Jobs finished
+2021-04-05 11:43:39,043 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:43:39,761 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:43:39,763 root  INFO     Jobs finished
+2021-04-05 11:46:58,235 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:46:58,967 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:46:58,969 root  INFO     Jobs finished
+2021-04-05 11:47:06,498 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 11:47:07,232 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 11:47:07,234 root  INFO     Jobs finished
+2021-04-05 12:12:07,443 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:12:08,197 root  INFO     Jobs finished
+2021-04-05 12:12:13,704 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:12:14,475 root  INFO     Jobs finished
+2021-04-05 12:12:36,445 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:12:37,235 root  INFO     Jobs finished
+2021-04-05 12:13:13,165 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:13:13,197 root  ERROR    FAILED: perl -pe 's|hskip(.*?)(cm\|in\|pt\|mm\|em)|hspace{\1\2}|g' src/data/im2latex_formulas.lst > src/data/formulas.norm.lst
+2021-04-05 12:13:13,218 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 12:13:13,219 root  INFO     Jobs finished
+2021-04-05 12:13:31,453 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:13:31,991 root  ERROR    FAILED: cat src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 12:13:41,122 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:13:41,760 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp | node scripts/preprocessing/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 12:13:41,763 root  INFO     Jobs finished
+2021-04-05 12:13:55,714 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:13:56,417 root  INFO     Jobs finished
+2021-04-05 12:25:17,337 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:25:17,992 root  INFO     Jobs finished
+2021-04-05 12:25:30,141 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:29:21,160 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:31:15,663 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:31:16,763 root  INFO     Jobs finished
+2021-04-05 12:31:37,008 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:31:37,842 root  ERROR    FAILED: type src/data/formulas.norm.lst.tmp node scripts/preprocess/preprocess_latex.js normalize > src/data/formulas.norm.lst 
+2021-04-05 12:31:37,844 root  INFO     Jobs finished
+2021-04-05 12:31:52,083 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-05 12:31:53,002 root  INFO     Jobs finished
