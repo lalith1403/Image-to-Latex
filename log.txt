@@ -457,3 +457,34 @@
 2021-04-05 12:31:37,844 root  INFO     Jobs finished
 2021-04-05 12:31:52,083 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
 2021-04-05 12:31:53,002 root  INFO     Jobs finished
+2021-04-14 00:19:21,149 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocessing\preprocess_formulas.py
+2021-04-14 00:19:43,259 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocessing\preprocess_formulas.py
+2021-04-14 00:19:43,912 root  ERROR    FAILED: type data/formulas.norm.lst.tmp | node scripts/preprocess/preprocess_latex.js normalize > data/formulas.norm.lst 
+2021-04-14 00:19:43,914 root  INFO     Jobs finished
+2021-04-14 00:21:11,937 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:21:12,549 root  INFO     Jobs finished
+2021-04-14 00:22:18,033 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:22:18,645 root  INFO     Jobs finished
+2021-04-14 00:22:46,138 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:22:59,994 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:23:16,386 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:23:16,995 root  INFO     Jobs finished
+2021-04-14 00:25:03,424 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 00:25:04,099 root  INFO     Jobs finished
+2021-04-14 00:27:26,675 root  INFO     Script being executed: scripts/preprocess/preprocess_filter.py
+2021-04-14 00:28:20,342 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 00:28:21,003 root  INFO     Jobs finished
+2021-04-14 01:14:54,166 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:14:54,811 root  ERROR    FAILED: type data/formulas.norm.lst.tmp & node scripts/preprocessing/preprocess_latex.js tokenize > data/formulas.norm.lst 
+2021-04-14 01:14:54,813 root  INFO     Jobs finished
+2021-04-14 01:15:13,843 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:17:09,321 root  ERROR    FAILED: type data/formulas.norm.lst.tmp & node scripts/preprocess/preprocess_latex.js tokenize > data/formulas.norm.lst 
+2021-04-14 01:17:25,164 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:20:17,225 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:20:17,883 root  INFO     Jobs finished
+2021-04-14 01:21:59,107 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:23:32,151 root  INFO     Script being executed: scripts/preprocess/preprocess_formulas.py
+2021-04-14 01:24:05,054 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 01:24:13,257 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 01:27:25,624 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-14 01:29:22,430 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py

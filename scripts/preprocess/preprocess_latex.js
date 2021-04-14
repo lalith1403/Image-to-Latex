@@ -1,6 +1,9 @@
 var katex = require("../../third_party/katex/katex.js")
 options = require("../../third_party/katex/src/Options.js")
 var readline = require('readline');
+
+console.log(process.stdout)
+
 var rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
@@ -9,6 +12,7 @@ var rl = readline.createInterface({
 
 
 rl.on('line', function(line){
+    console.log("Hey");
     a = line
     if (line[0] == "%") {
         line = line.substr(1, line.length - 1);
@@ -360,7 +364,7 @@ var buildExpression = function(expression, options) {
         var group = expression[i];
         buildGroup(group, options);
     }
-    // console.log(norm_str);
+    console.log(norm_str);
     // return groups;
 };
 

@@ -62,9 +62,17 @@ def main(args):
     temp_file = output_file + '.tmp'
     with open(temp_file, 'w') as fout:
         fout.write(open(output_file).read().replace('\r', ' ')) # delete \r
-    #shutil.copy(output_file, temp_file)
+    # shutil.copy(output_file, temp_file)
 
-    cmd = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
+    cmd1 = "type %s"%(temp_file) 
+    ret1 = subprocess.call(cmd, shell=True)
+    if ret1 != 0:
+        logging.error('FAILED: %s'%cmd1)
+    
+    cmd = "node scripts/preprocess/preprocess_latex.js %s > %s "%(parameters.mode, output_file)
+
+    # cmd = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
+    print(cmd)
     ret = subprocess.call(cmd, shell=True)
     os.remove(temp_file)
     if ret != 0:
