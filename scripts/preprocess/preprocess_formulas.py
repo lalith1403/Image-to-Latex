@@ -52,27 +52,21 @@ def main(args):
 
     input_file = parameters.input_file
     output_file = parameters.output_file
-
     assert os.path.exists(input_file), input_file
+    
+    # print(assert (os.path.exists(input_file)))
     cmd = 'perl -pe "s|hskip(.*?)(cm\\|in\\|pt\\|mm\\|em)|hspace{\\1\\2}|g" %s > %s'%(input_file, output_file)
     ret = subprocess.call(cmd, shell=True)
     if ret != 0:
         logging.error('FAILED: %s'%cmd)
 
+
     temp_file = output_file + '.tmp'
     with open(temp_file, 'w') as fout:
         fout.write(open(output_file).read().replace('\r', ' ')) # delete \r
     # shutil.copy(output_file, temp_file)
-
-    # cmd_part_1= "type %s"%(temp_file) 
-    # ret_part_1 = subprocess.call(cmd_part_1, shell=True)
-    # if ret_part_1 != 0:
-    #     logging.error('FAILED: %s'%cmd_part_1)
     
-    cmd_part_2 = "node scripts/preprocess/preprocess_latex.js %s > %s "%(parameters.mode, output_file)
-
-    # cmd = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
-    # print(cmd)
+    cmd_part_2 = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
     ret_part_2 = subprocess.call(cmd_part_2, shell=True)
     os.remove(temp_file)
     if ret_part_2 != 0:
@@ -80,12 +74,12 @@ def main(args):
     temp_file = output_file + '.tmp'
     shutil.move(output_file, temp_file)
     with open(temp_file) as fin:
-        with open(output_file, 'w') as fout:
+        with open(output_file, 'w') as fout: 
             for line in fin:
                 tokens = line.strip().split()
                 tokens_out = []
                 for token in tokens:
-                    if not type(token) == str:
+                    if type(token) == str:
                         tokens_out.append(token)
                     elif is_ascii(token):
                         tokens_out.append(token)

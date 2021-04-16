@@ -2,8 +2,6 @@ var katex = require("../../third_party/katex/katex.js")
 options = require("../../third_party/katex/src/Options.js")
 var readline = require('readline');
 
-console.log(process.stdout)
-
 var rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
@@ -36,6 +34,7 @@ rl.on('line', function(line){
     
 
     line = line + " "
+    console.log(line);
     // global_str is tokenized version (build in parser.js)
     // norm_str is normalized version build by renderer below.
     try {

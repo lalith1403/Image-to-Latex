@@ -493,3 +493,34 @@
 2021-04-16 12:22:15,306 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
 2021-04-16 12:22:51,508 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
 2021-04-16 12:59:20,175 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:50:59,378 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:03:58,461 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:05:14,262 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:07:25,519 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:13:19,512 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:13:38,907 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:13:55,329 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:13:55,853 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:14:16,086 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:14:16,608 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:14:49,918 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:14:50,464 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:15:46,630 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:15:47,176 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:16:30,985 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:16:31,503 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:17:47,463 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:17:47,997 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:18:09,629 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:18:10,495 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:21:14,587 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:21:15,522 root  ERROR    FAILED: type data/formulas.norm.lst.tmp
+2021-04-16 15:26:15,583 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:27:54,534 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:27:55,570 root  INFO     Jobs finished
+2021-04-16 15:31:09,075 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:31:09,712 root  INFO     Jobs finished
+2021-04-16 15:33:15,581 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:33:16,516 root  INFO     Jobs finished
+2021-04-16 15:33:30,667 root  INFO     Script being executed: D:\FSDL\image2latex\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:33:31,616 root  INFO     Jobs finished

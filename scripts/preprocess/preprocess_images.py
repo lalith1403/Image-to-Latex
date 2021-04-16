@@ -19,7 +19,7 @@ def process_args(args):
                         ))
     parser.add_argument('--num-threads', dest='num_threads',
                         type=int, default=8,
-                        help=('Number of threads, default=4.'
+                        help=('Number of threads, default=8.'
                         ))
     parser.add_argument('--crop-blank-default-size', dest='crop_blank_default_size',
                         type=str, default='[600,60]',
