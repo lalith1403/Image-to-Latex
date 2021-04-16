@@ -64,19 +64,19 @@ def main(args):
         fout.write(open(output_file).read().replace('\r', ' ')) # delete \r
     # shutil.copy(output_file, temp_file)
 
-    cmd1 = "type %s"%(temp_file) 
-    ret1 = subprocess.call(cmd, shell=True)
-    if ret1 != 0:
-        logging.error('FAILED: %s'%cmd1)
+    # cmd_part_1= "type %s"%(temp_file) 
+    # ret_part_1 = subprocess.call(cmd_part_1, shell=True)
+    # if ret_part_1 != 0:
+    #     logging.error('FAILED: %s'%cmd_part_1)
     
-    cmd = "node scripts/preprocess/preprocess_latex.js %s > %s "%(parameters.mode, output_file)
+    cmd_part_2 = "node scripts/preprocess/preprocess_latex.js %s > %s "%(parameters.mode, output_file)
 
     # cmd = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
-    print(cmd)
-    ret = subprocess.call(cmd, shell=True)
+    # print(cmd)
+    ret_part_2 = subprocess.call(cmd_part_2, shell=True)
     os.remove(temp_file)
-    if ret != 0:
-        logging.error('FAILED: %s'%cmd)
+    if ret_part_2 != 0:
+        logging.error('FAILED: %s'%cmd_part_2)
     temp_file = output_file + '.tmp'
     shutil.move(output_file, temp_file)
     with open(temp_file) as fin:
@@ -85,7 +85,9 @@ def main(args):
                 tokens = line.strip().split()
                 tokens_out = []
                 for token in tokens:
-                    if is_ascii(token):
+                    if not type(token) == str:
+                        tokens_out.append(token)
+                    elif is_ascii(token):
                         tokens_out.append(token)
                 fout.write(' '.join(tokens_out)+'\n')
     os.remove(temp_file)
