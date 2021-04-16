@@ -64,15 +64,16 @@ def main(args):
     temp_file = output_file + '.tmp'
     with open(temp_file, 'w') as fout:
         fout.write(open(output_file).read().replace('\r', ' ')) # delete \r
-    # shutil.copy(output_file, temp_file)
-    
+    shutil.copy(output_file, temp_file)
+
     cmd_part_2 = "type %s | node scripts/preprocess/preprocess_latex.js %s > %s "%(temp_file, parameters.mode, output_file)
     ret_part_2 = subprocess.call(cmd_part_2, shell=True)
-    os.remove(temp_file)
+    # os.remove(temp_file)
     if ret_part_2 != 0:
         logging.error('FAILED: %s'%cmd_part_2)
     temp_file = output_file + '.tmp'
-    shutil.move(output_file, temp_file)
+    # shutil.move(output_file, temp_file)
+
     with open(temp_file) as fin:
         with open(output_file, 'w') as fout: 
             for line in fin:
