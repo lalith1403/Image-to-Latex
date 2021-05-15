@@ -1,3 +1,5 @@
 {
-    "activestate.promptRuntimeCreation": false
+    "activestate.promptRuntimeCreation": false,
+    "python.pythonPath": "C:\\Users\\lalit\\anaconda3\\envs\\pytorch\\python.exe",
+    "git.ignoreLimitWarning": true
 }
