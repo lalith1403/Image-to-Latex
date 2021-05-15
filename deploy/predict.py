@@ -89,7 +89,6 @@ class AttnDecoder(nn.Module):
     
     loss = 0
     for i in range(max_len-1):
-#       y_0 = sequence[:, i].cuda()
       prob, o_0, h_0, c_0 = self.forward(y_0, o_0, h_0, c_0, v_tilda)
       loss += self.nll(prob, sequence[:, i+1].cuda())
       
@@ -101,15 +100,10 @@ class AttnDecoder(nn.Module):
 #         y_0 = sequence[:, i+1]
       
     return loss
-  
-      
-
-# attn_decoder = AttnDecoder(num_tokens, embedding_dim=80, hidden_dim=512, output_dim=600, attn_dim=512).cuda()
     
 encoder_hidden_size = 256
 num_layers = 1
 
-# lstm_encoder = nn.LSTM(feature_num, encoder_hidden_size, num_layers, bidirectional=True, batch_first=True).cuda()
 cnn_encoder_loaded = nn.Sequential(
   nn.Conv2d(in_channels=1, out_channels=64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1)),
   nn.ReLU(),
@@ -151,7 +145,7 @@ import numpy as np
 all_tokens = np.load('all_tokens.npy')
 all_tokens = all_tokens.tolist()
 num_tokens = len(all_tokens)
-cnn_encoder_loaded.load_state_dict(torch.load('cnn_train_0_epoch14.pth'))
+cnn_encoder_loaded.load_state_dict(torch.load('cnn_train.pth'))
 # cnn_encoder_loaded = torch.jit.script(cnn_encoder_loaded)
 cnn_encoder_loaded.cuda()
 cnn_encoder_loaded.eval()
@@ -162,13 +156,13 @@ dummy_v = cnn_encoder_loaded(torch.Tensor(images_test[0:10]).cuda())
 _, seq_len, feature_num = dummy_v.shape
 
 lstm_encoder_loaded = nn.LSTM(feature_num, encoder_hidden_size, num_layers, bidirectional=True, batch_first=True)
-lstm_encoder_loaded.load_state_dict(torch.load('lstm_train_0_epoch14.pth'))
+lstm_encoder_loaded.load_state_dict(torch.load('lstm_train.pth'))
 # lstm_encoder_loaded = torch.jit.script(lstm_encoder_loaded)
 lstm_encoder_loaded.cuda()
 lstm_encoder_loaded.eval()
 
 attn_decoder_loaded = AttnDecoder(num_tokens, embedding_dim=80, hidden_dim=512, output_dim=600, attn_dim=512)
-attn_decoder_loaded.load_state_dict(torch.load('decoder_train_0_epoch14.pth'))
+attn_decoder_loaded.load_state_dict(torch.load('decoder_train.pth'))
 # attn_decoder_loaded = torch.jit.script(attn_decoder_loaded)
 attn_decoder_loaded.cuda()
 # attn_decoder_loaded.eval()
@@ -197,9 +191,7 @@ def predict(image, cnn_encoder, lstm_encoder, attn_decoder, max_len=178):
       
   # a random image from test set is chosen ands the model is run on it
 index = 74
-# test_image = torch.Tensor(images_test[index]).cuda()
-# print("test size",test_image.device)
-# test_image = image
+
 
 def outer_predict(image):
     test_image = torch.Tensor(image).cuda()
@@ -217,16 +209,9 @@ def outer_predict(image):
     return sentence
 
 
-# formula = outer_predict(test_image)
-# print(formula)
-# test_image = torch.Tensor(images_test[index].reshape(60,400))
-# print("here",test_image.shape)
-
-
 import streamlit as st
 from PIL import Image
 import numpy as np
-# from predict import outer_predict
 import copy
 import cv2
 
