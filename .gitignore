@@ -1,6 +1,9 @@
 /data/formula_images/
 /data/processed_images/
 /data/resized_processed_images/
-/dataset/tokens.npy
-/model_deploy/all_tokens.npy/
+/data/tokens.npy
+/deploy/all_tokens.npy
 /data/npy/
+
+.vscode
+__pycache__
